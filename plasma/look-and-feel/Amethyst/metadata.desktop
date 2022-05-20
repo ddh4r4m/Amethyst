@@ -1,0 +1,19 @@
+[Desktop Entry]
+Comment=A simple Dark Plasma Theme
+Name=Amethyst
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+
+Type=Service
+
+X-KDE-PluginInfo-Author=DharamDhurandhar
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=rkstrdee@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL3.0
+X-KDE-PluginInfo-Name=Amethyst
+X-KDE-PluginInfo-Version=2.1
+X-KDE-PluginInfo-Website=https://github.com/rkstrdee/Amethyst
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1799587,kns://plasma-themes.knsrc/api.kde-look.org/1799596,kns://plasma-themes.knsrc/api.kde-look.org/1761037,kns://plasma-themes.knsrc/api.kde-look.org/1761038,kns://icons.knsrc/api.kde-look.org/1359276,kns://wallpaper.knsrc/api.kde-look.org/1799605,kns://wallpaper.knsrc/api.kde-look.org/1761033,kns://wallpaper.knsrc/api.kde-look.org/1761032,kns://wallpaper.knsrc/api.kde-look.org/1757401,kns://wallpaper.knsrc/api.kde-look.org/1541308,kns://wallpaper.knsrc/api.kde-look.org/1598039,kns://aurorae.knsrc/api.kde-look.org/1757391
